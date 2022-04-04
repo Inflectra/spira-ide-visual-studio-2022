@@ -1,0 +1,4 @@
+1- To update it directly from the vsix file, extract it (as a zip folder)
+2- Modify the extension.vsixmanifest file to reflect the changes. You can get the build numbers here:
+
+https://docs.microsoft.com/en-us/visualstudio/install/visual-studio-build-numbers-and-release-dates?view=vs-2022

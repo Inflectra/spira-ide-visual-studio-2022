@@ -1,0 +1,2 @@
+C:\git\Others\spira-ide-visual-studio-2017\SpiraExplorer\obj\Debug\SpiraExplorer.csproj.AssemblyReference.cache
+C:\git\Others\spira-ide-visual-studio-2022\SpiraExplorer\obj\Debug\SpiraExplorer.csproj.AssemblyReference.cache

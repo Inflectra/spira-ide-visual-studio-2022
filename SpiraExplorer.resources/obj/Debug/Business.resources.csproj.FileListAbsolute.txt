@@ -1,0 +1,10 @@
+C:\git\Others\spira-ide-visual-studio-2017\SpiraExplorer\bin\x86\Debug\en-US\Business.resources.dll.config
+C:\git\Others\spira-ide-visual-studio-2017\SpiraExplorer\bin\x86\Debug\en-US\Business.resources.dll
+C:\git\Others\spira-ide-visual-studio-2017\SpiraExplorer\bin\x86\Debug\en-US\Business.resources.pdb
+C:\git\Others\spira-ide-visual-studio-2017\SpiraExplorer.resources\obj\Debug\Business.resources.csproj.AssemblyReference.cache
+C:\git\Others\spira-ide-visual-studio-2017\SpiraExplorer.resources\obj\Debug\Business.resources.g.resources
+C:\git\Others\spira-ide-visual-studio-2017\SpiraExplorer.resources\obj\Debug\Inflectra.SpiraTest.IDEIntegration.VisualStudio2012.Resources.Properties.Resources.resources
+C:\git\Others\spira-ide-visual-studio-2017\SpiraExplorer.resources\obj\Debug\Business.resources.csproj.GenerateResource.cache
+C:\git\Others\spira-ide-visual-studio-2017\SpiraExplorer.resources\obj\Debug\Business.resources.csproj.CoreCompileInputs.cache
+C:\git\Others\spira-ide-visual-studio-2017\SpiraExplorer.resources\obj\Debug\Business.resources.dll
+C:\git\Others\spira-ide-visual-studio-2017\SpiraExplorer.resources\obj\Debug\Business.resources.pdb
