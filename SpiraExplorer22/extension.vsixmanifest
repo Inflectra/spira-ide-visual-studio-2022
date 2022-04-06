@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PackageManifest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011">
+  <Metadata>
+    <Identity Id="1BBF164A-3381-40CD-B1C6-FCAD086B163A" Publisher="Inflectra" Version="6.0.0.0" Language="en-US" />
+    <DisplayName>SpiraTeam Explorer</DisplayName>
+    <Description xml:space="preserve">This extension allows you to integrate SpiraPlan with Visual Studio and view assigned Tasks, Requirements, and Incidents from within the VS UI.</Description>
+    <MoreInfo>https://www.inflectra.com/</MoreInfo>
+    <License>InflectraSoftwareEULA.rtf</License>
+    <ReleaseNotes>readme.txt</ReleaseNotes>
+    <Icon>.\Resources\Package.ico</Icon>
+    <PreviewImage>.\Resources\Screenshot.png</PreviewImage>
+  </Metadata>
+  <Prerequisites>
+    <Prerequisite Id="Microsoft.VisualStudio.Component.CoreEditor" Version="[15.0,18.0)" DisplayName="Visual Studio core editor" />
+  </Prerequisites>
+  <Installation AllUsers="true">
+    <InstallationTarget Version="[17.0,18.0)" Id="Microsoft.VisualStudio.Pro" >
+		<ProductArchitecture>amd64</ProductArchitecture>
+   </InstallationTarget>
+    <InstallationTarget Version="[17.0,18.0)" Id="Microsoft.VisualStudio.Premium" >
+		<ProductArchitecture>amd64</ProductArchitecture>
+   </InstallationTarget>
+    <InstallationTarget Version="[17.0,18.0)" Id="Microsoft.VisualStudio.Ultimate" >
+		<ProductArchitecture>amd64</ProductArchitecture>
+   </InstallationTarget>
+    <InstallationTarget Version="[17.0,18.0)" Id="Microsoft.VisualStudio.Enterprise" >
+		<ProductArchitecture>amd64</ProductArchitecture>
+   </InstallationTarget>
+    <InstallationTarget Version="[17.0,18.0)" Id="Microsoft.VisualStudio.Community" >
+			<ProductArchitecture>amd64</ProductArchitecture>
+   </InstallationTarget>
+  </Installation>
+</PackageManifest>
