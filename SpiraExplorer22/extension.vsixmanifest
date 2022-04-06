@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011">
   <Metadata>
-    <Identity Id="spira_team_explorer_22.1BBF164A-3381-40CD-B1C6-FCAD086B163A" Publisher="Inflectra" Version="6.0.0.0" Language="en-US" />
+    <Identity Id="spira_team_explorer_22.be389caf-e5ee-40CD-9b84-530b401448ff" Publisher="Inflectra" Version="6.0.0.0" Language="en-US" />
     <DisplayName>SpiraTeam Explorer</DisplayName>
     <Description xml:space="preserve">This extension allows you to integrate SpiraPlan with Visual Studio and view assigned Tasks, Requirements, and Incidents from within the VS UI.</Description>
     <MoreInfo>https://www.inflectra.com/</MoreInfo>
